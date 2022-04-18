@@ -1,0 +1,11 @@
+Model,Accuracy,Loss,AUC
+main_without_imggen-02.h5,0.6667,0.8677,0.7122
+main_without_imggen-04.h5,0.7842,0.578,0.8209
+main_without_imggen-06.h5,0.6297,1.0071,0.8433
+main_without_imggen-08.h5,0.8059999999999999,0.4896,0.8825
+main_without_imggen-10.h5,0.5542,1.5291,0.8965
+main_without_imggen-12.h5,0.8732,0.4237,0.8943
+main_without_imggen-14.h5,0.9102,0.4349,0.852
+main_without_imggen-16.h5,0.9127,0.3764,0.8798
+main_without_imggen-18.h5,0.8992,0.39,0.8969
+main_without_imggen-20.h5,0.8799,0.4344,0.8805
