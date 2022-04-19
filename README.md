@@ -1,6 +1,6 @@
 # DP_Frantisek
 
-### Optimalizačný projekt Wandb & Biases[]()
+###  [Optimalizačný projekt](https://wandb.ai/ishadowstormi/Coronary\%20angiography\%20network?workspace=-ishadowstormi) Wandb & Biases
 ### Pracovné súbory:
 - Jupyter Notebook [predspracovanie_dat.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/predspracovanie_dat.ipynb) obsahuje algoritmus slúžiaci na predspracovanie snímok a rovnako tak aj vytvorenia dataframu obsahujúceho vyextrahovaný typ cieľovej triedy a názvu týchto snímok.
 - Jupyter Notebook [main_without_imggen.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/model1/main_without_imggen.ipynb) obsahuje algoritmus slúžiaci na zrealizovanie experimentu 1 a tým aj vytvoreniu modelu 1.
