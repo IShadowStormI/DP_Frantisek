@@ -13,6 +13,7 @@
 
 ### Vstupné a výstupné súbory
 **Vstupné súbory** -- vstupným súborom tejto práce bol verejne dostupný [dataset](https://data.mendeley.com/datasets/fk6rys63h9/1) snímok koronárnych tepien srdca
+
 **Výstupné súbory** -- v tomto prípade sú výstupnými súbormi jednotlivých častí váhy modelu vo formáte .h5 ako aj ich výsledky vo formáte .csv, ktoré sú roztriedené
 podľa príslušnej operácie (procesu), a to na:
 1. Predspracovanie dát
