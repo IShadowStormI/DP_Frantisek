@@ -1,6 +1,5 @@
 # Diplomová práca - Využitie hlbokého učenia v spracovaní dát kardiovaskulárnych pacientov
 
-###  [Optimalizačný projekt](https://wandb.ai/ishadowstormi/Coronary\%20angiography\%20network?workspace=-ishadowstormi) Wandb & Biases
 ### Pracovné súbory:
 - Jupyter Notebook [predspracovanie_dat.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/predspracovanie_dat.ipynb) obsahuje algoritmus slúžiaci na predspracovanie snímok a rovnako tak aj vytvorenia dataframu obsahujúceho vyextrahovaný typ cieľovej triedy a názvu týchto snímok.
 - Jupyter Notebook [main_without_imggen.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/model1/main_without_imggen.ipynb) obsahuje algoritmus slúžiaci na zrealizovanie experimentu 1 a tým aj vytvoreniu modelu 1.
@@ -10,6 +9,8 @@
 - Jupyter Notebook [B-decent-sweep-4.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/wandb/decent-sweep-4/B-decent-sweep-4.ipynb) obsahuje algoritmus využitý pre namodelovanie a vyhodnotenie modelu decent-sweep-4
 - Jupyter Notebook [B-honest-sweep-24.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/wandb/honest-sweep-24/B-honest-sweep-24.ipynb) obsahuje algoritmus využitý pre namodelovanie a vyhodnotenie modelu hones-sweep-24
 - Jupyter Notebook [B-icy-sweep-7.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/wandb/icy-sweep-7/B-icy-sweep-7.ipynb) obsahuje algoritmus využitý pre namodelovanie a vyhodnotenie modelu icy-sweep-7
+
+###  [Optimalizačný projekt](https://wandb.ai/ishadowstormi/Coronary\%20angiography\%20network?workspace=-ishadowstormi) Wandb & Biases
 
 ### Vstupné a výstupné súbory
 **Vstupné súbory** -- vstupným súborom tejto práce bol verejne dostupný [dataset](https://data.mendeley.com/datasets/fk6rys63h9/1) snímok koronárnych tepien srdca
