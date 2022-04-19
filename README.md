@@ -1,4 +1,5 @@
-# DP_Frantisek - Využitie hlbokého učenia v spracovaní dát kardiovaskulárnych pacientov
+# Využitie hlbokého učenia v spracovaní dát kardiovaskulárnych pacientov
+## Diplomová práca
 
 ###  [Optimalizačný projekt](https://wandb.ai/ishadowstormi/Coronary\%20angiography\%20network?workspace=-ishadowstormi) Wandb & Biases
 ### Pracovné súbory:
