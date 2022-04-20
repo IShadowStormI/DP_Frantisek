@@ -10,7 +10,7 @@
 - Jupyter Notebook [B-honest-sweep-24.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/wandb/honest-sweep-24/B-honest-sweep-24.ipynb) obsahuje algoritmus využitý pre namodelovanie a vyhodnotenie modelu hones-sweep-24
 - Jupyter Notebook [B-icy-sweep-7.ipynb](https://github.com/IShadowStormI/DP_Frantisek/blob/main/wandb/icy-sweep-7/B-icy-sweep-7.ipynb) obsahuje algoritmus využitý pre namodelovanie a vyhodnotenie modelu icy-sweep-7
 
-###  [Optimalizačný projekt](https://wandb.ai/ishadowstormi/Coronary\%20angiography\%20network?workspace=-ishadowstormi) Wandb & Biases
+###  [Optimalizačný projekt](https://wandb.ai/ishadowstormi/Coronary\%20angiography\%20network?workspace=user-) Wandb & Biases
 
 ### Vstupné a výstupné súbory
 **Vstupné súbory** -- vstupným súborom tejto práce bol verejne dostupný [dataset](https://data.mendeley.com/datasets/fk6rys63h9/1) snímok koronárnych tepien srdca
